@@ -8,7 +8,7 @@ output_x.wav and output_y.wav.
 import math as m
 import numpy as np
 
-src_file = "coorSuperposition.txt"
+src_file = "examples/coorSuperposition.txt"
 default_step = 2
 
 dst_x = open("output_x.wav", "wb")
